@@ -27,7 +27,7 @@ export default {
   email: null,
   hireable: null,
   bio: "Creator of Coding Addict",
-  twitter_username: "john_smilga",
+  twitter_username: null,
   public_repos: 152,
   public_gists: 31,
   followers: 1495,
